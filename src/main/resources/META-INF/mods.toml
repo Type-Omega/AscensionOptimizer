@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[47,)"
 license = "${mod_license}"
-issueTrackerURL = "https://github.com/GTInfinityAscension/AscensionOptimizer/issues"
+issueTrackerURL = "https://github.com/Type-Omega/AscensionOptimizer/issues"
 
 [[mods]]
     modId = "${mod_id}"
