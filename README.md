@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="docs/assets/logo.png" width="420" alt="Ascension Optimizer logo" />
+</p>
+
 # Ascension Optimizer
 
-Measured performance fixes for large modpacks, made for [GregTech Infinity Ascension](https://github.com/Type-Omega) but usable in any Forge 1.20.1 pack (it needs no other mod).
+Measured performance fixes for large modpacks, made for [Type Omega](https://github.com/Type-Omega) but usable in any Forge 1.20.1 pack (it needs no other mod).
 
 Every optimization is a separate feature that can be turned off in `config/ascopt-mixins.properties`; a feature whose target mod is missing is skipped. A feature is only added with numbers from before and after, measured with the modpack's `tools/perf_bench.py` (dedicated server, full pack, median of 3 boots).
 
